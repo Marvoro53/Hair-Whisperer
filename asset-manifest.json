@@ -1,23 +1,30 @@
 {
   "files": {
-    "main.css": "/Hair-Whisperer/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/Hair-Whisperer/static/js/main.87a7ffd7.chunk.js",
-    "main.js.map": "/Hair-Whisperer/static/js/main.87a7ffd7.chunk.js.map",
-    "runtime-main.js": "/Hair-Whisperer/static/js/runtime-main.46c21b9e.js",
-    "runtime-main.js.map": "/Hair-Whisperer/static/js/runtime-main.46c21b9e.js.map",
-    "static/js/2.01afddc9.chunk.js": "/Hair-Whisperer/static/js/2.01afddc9.chunk.js",
-    "static/js/2.01afddc9.chunk.js.map": "/Hair-Whisperer/static/js/2.01afddc9.chunk.js.map",
-    "static/js/3.90cbdc05.chunk.js": "/Hair-Whisperer/static/js/3.90cbdc05.chunk.js",
-    "static/js/3.90cbdc05.chunk.js.map": "/Hair-Whisperer/static/js/3.90cbdc05.chunk.js.map",
+    "main.css": "/Hair-Whisperer/static/css/main.36dd3f6b.chunk.css",
+    "main.js": "/Hair-Whisperer/static/js/main.0f015d67.chunk.js",
+    "main.js.map": "/Hair-Whisperer/static/js/main.0f015d67.chunk.js.map",
+    "runtime-main.js": "/Hair-Whisperer/static/js/runtime-main.5f059bb0.js",
+    "runtime-main.js.map": "/Hair-Whisperer/static/js/runtime-main.5f059bb0.js.map",
+    "static/js/2.aef113a9.chunk.js": "/Hair-Whisperer/static/js/2.aef113a9.chunk.js",
+    "static/js/2.aef113a9.chunk.js.map": "/Hair-Whisperer/static/js/2.aef113a9.chunk.js.map",
+    "static/js/3.38056aba.chunk.js": "/Hair-Whisperer/static/js/3.38056aba.chunk.js",
+    "static/js/3.38056aba.chunk.js.map": "/Hair-Whisperer/static/js/3.38056aba.chunk.js.map",
     "index.html": "/Hair-Whisperer/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/Hair-Whisperer/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.01afddc9.chunk.js.LICENSE.txt": "/Hair-Whisperer/static/js/2.01afddc9.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/Hair-Whisperer/static/media/logo.6ce24c58.svg"
+    "static/css/main.36dd3f6b.chunk.css.map": "/Hair-Whisperer/static/css/main.36dd3f6b.chunk.css.map",
+    "static/js/2.aef113a9.chunk.js.LICENSE.txt": "/Hair-Whisperer/static/js/2.aef113a9.chunk.js.LICENSE.txt",
+    "static/media/image1.a366123f.jpeg": "/Hair-Whisperer/static/media/image1.a366123f.jpeg",
+    "static/media/image2.00b04508.jpeg": "/Hair-Whisperer/static/media/image2.00b04508.jpeg",
+    "static/media/image4.de899c61.jpeg": "/Hair-Whisperer/static/media/image4.de899c61.jpeg",
+    "static/media/image5.d2f79480.jpeg": "/Hair-Whisperer/static/media/image5.d2f79480.jpeg",
+    "static/media/image6.b7fddc82.jpeg": "/Hair-Whisperer/static/media/image6.b7fddc82.jpeg",
+    "static/media/image7.33ffd4e8.jpeg": "/Hair-Whisperer/static/media/image7.33ffd4e8.jpeg",
+    "static/media/image8.c0726ce6.jpeg": "/Hair-Whisperer/static/media/image8.c0726ce6.jpeg",
+    "static/media/image9.1afc34fb.jpeg": "/Hair-Whisperer/static/media/image9.1afc34fb.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.46c21b9e.js",
-    "static/js/2.01afddc9.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.87a7ffd7.chunk.js"
+    "static/js/runtime-main.5f059bb0.js",
+    "static/js/2.aef113a9.chunk.js",
+    "static/css/main.36dd3f6b.chunk.css",
+    "static/js/main.0f015d67.chunk.js"
   ]
 }
