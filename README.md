@@ -15,6 +15,5 @@ Project is created with:
 To run this project, clone it at
 [Hair-Whisperer](https://github.com/Marvoro53/Hair-Whisperer.git)
 ```
-~cd hairWhisperer
 ~cd whisperer-app
 ~npm start
