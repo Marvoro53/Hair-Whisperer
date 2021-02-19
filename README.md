@@ -17,6 +17,7 @@
 **To install** |
 ---------------|
 git clone https://github.com/Marvoro53/Hair-Whisperer.git
+
 ```cd whisperer app
 ```npm start
  
