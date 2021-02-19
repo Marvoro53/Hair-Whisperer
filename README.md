@@ -18,7 +18,7 @@
 ---------------|
 git clone https://github.com/Marvoro53/Hair-Whisperer.git
 
-```cd whisperer app
+cd whisperer app
 ```npm start
  
  [See here in Github](https://github.com/Marvoro53/Hair-Whisperer)
