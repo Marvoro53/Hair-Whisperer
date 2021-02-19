@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Hair-Whisperer/static/css/main.08b38fec.chunk.css",
-    "main.js": "/Hair-Whisperer/static/js/main.c1c90913.chunk.js",
-    "main.js.map": "/Hair-Whisperer/static/js/main.c1c90913.chunk.js.map",
-    "runtime-main.js": "/Hair-Whisperer/static/js/runtime-main.75aa92e8.js",
-    "runtime-main.js.map": "/Hair-Whisperer/static/js/runtime-main.75aa92e8.js.map",
-    "static/js/2.c25f4e78.chunk.js": "/Hair-Whisperer/static/js/2.c25f4e78.chunk.js",
-    "static/js/2.c25f4e78.chunk.js.map": "/Hair-Whisperer/static/js/2.c25f4e78.chunk.js.map",
-    "static/js/3.93a4a227.chunk.js": "/Hair-Whisperer/static/js/3.93a4a227.chunk.js",
-    "static/js/3.93a4a227.chunk.js.map": "/Hair-Whisperer/static/js/3.93a4a227.chunk.js.map",
+    "main.js": "/Hair-Whisperer/static/js/main.5406cfa5.chunk.js",
+    "main.js.map": "/Hair-Whisperer/static/js/main.5406cfa5.chunk.js.map",
+    "runtime-main.js": "/Hair-Whisperer/static/js/runtime-main.af4d6e42.js",
+    "runtime-main.js.map": "/Hair-Whisperer/static/js/runtime-main.af4d6e42.js.map",
+    "static/js/2.acb7584b.chunk.js": "/Hair-Whisperer/static/js/2.acb7584b.chunk.js",
+    "static/js/2.acb7584b.chunk.js.map": "/Hair-Whisperer/static/js/2.acb7584b.chunk.js.map",
+    "static/js/3.0204c6a6.chunk.js": "/Hair-Whisperer/static/js/3.0204c6a6.chunk.js",
+    "static/js/3.0204c6a6.chunk.js.map": "/Hair-Whisperer/static/js/3.0204c6a6.chunk.js.map",
     "index.html": "/Hair-Whisperer/index.html",
     "static/css/main.08b38fec.chunk.css.map": "/Hair-Whisperer/static/css/main.08b38fec.chunk.css.map",
-    "static/js/2.c25f4e78.chunk.js.LICENSE.txt": "/Hair-Whisperer/static/js/2.c25f4e78.chunk.js.LICENSE.txt",
+    "static/js/2.acb7584b.chunk.js.LICENSE.txt": "/Hair-Whisperer/static/js/2.acb7584b.chunk.js.LICENSE.txt",
     "static/media/image1.a366123f.jpeg": "/Hair-Whisperer/static/media/image1.a366123f.jpeg",
     "static/media/image2.00b04508.jpeg": "/Hair-Whisperer/static/media/image2.00b04508.jpeg",
     "static/media/image4.de899c61.jpeg": "/Hair-Whisperer/static/media/image4.de899c61.jpeg",
@@ -22,9 +22,9 @@
     "static/media/image9.1afc34fb.jpeg": "/Hair-Whisperer/static/media/image9.1afc34fb.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.75aa92e8.js",
-    "static/js/2.c25f4e78.chunk.js",
+    "static/js/runtime-main.af4d6e42.js",
+    "static/js/2.acb7584b.chunk.js",
     "static/css/main.08b38fec.chunk.css",
-    "static/js/main.c1c90913.chunk.js"
+    "static/js/main.5406cfa5.chunk.js"
   ]
 }
