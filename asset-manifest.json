@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Hair-Whisperer/static/css/main.08b38fec.chunk.css",
-    "main.js": "/Hair-Whisperer/static/js/main.d8987c16.chunk.js",
-    "main.js.map": "/Hair-Whisperer/static/js/main.d8987c16.chunk.js.map",
+    "main.js": "/Hair-Whisperer/static/js/main.c1c90913.chunk.js",
+    "main.js.map": "/Hair-Whisperer/static/js/main.c1c90913.chunk.js.map",
     "runtime-main.js": "/Hair-Whisperer/static/js/runtime-main.75aa92e8.js",
     "runtime-main.js.map": "/Hair-Whisperer/static/js/runtime-main.75aa92e8.js.map",
     "static/js/2.c25f4e78.chunk.js": "/Hair-Whisperer/static/js/2.c25f4e78.chunk.js",
@@ -25,6 +25,6 @@
     "static/js/runtime-main.75aa92e8.js",
     "static/js/2.c25f4e78.chunk.js",
     "static/css/main.08b38fec.chunk.css",
-    "static/js/main.d8987c16.chunk.js"
+    "static/js/main.c1c90913.chunk.js"
   ]
 }
